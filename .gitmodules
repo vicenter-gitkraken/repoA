@@ -1,3 +1,6 @@
 [submodule "repoB"]
 	path = repoB
 	url = https://github.com/vicenter-gitkraken/repoB.git
+[submodule "repoC"]
+	path = repoC
+	url = https://github.com/vicenter-gitkraken/repoC.git
